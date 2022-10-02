@@ -2,9 +2,17 @@
 
 # OVERVIEW
 
-Hotel business has been a massive business in recent years with the hospitality industry continue to show strength in revenues year in year out, however there are also downside of the business , with so many factors having impact in theoir revenues and profits. In this project , an exploratory analysis of two high profiled hotel will be analysed based on there booking and to determine the most busy period and to uncover some trends relating to bookings.
+Real Estate in New york City is a massive business and in boroughs like manhattan and brooklyn, we can expect a mouth watering prices of properties, the focus of this project is to do an in dept analysis of this properties and uncover insights where necessary.
+
 
 # DATASET
 
-The dataset can be found on https://www.kaggle.com/jessemostipak/hotel-booking-demand
+The dataset consist of records of properties in brooklyn and their sales price from 2003 to 2017 which can be can be found on https://www.kaggle.com/tianhwu/brooklynhomes2003to2017?select=brooklyn_sales.rds.
 
+# AIM & OBJECTIVE
+
+Our task include highlighting expensive neighborhood, see the trend of real estate in brooklyn during the course of thus years and check how the manhattan bridge impacted the sales price of properties in brooklyn.
+
+# CONCLUSION
+
+At the end of our statistical analysis we see none of the home features impacted the properties sale price in this neighborhoods , however the minutes to manhattan bridge of this neighborhoods can be crucial to the sale price based on our regression model.
