@@ -1,4 +1,4 @@
-# Brooklyn_real_estate_project
+# Brooklyn_real_estate_EDA
 
 # OVERVIEW
 
